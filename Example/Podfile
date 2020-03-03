@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YanWGCategoryKit_Example' do
+  pod 'YanWGCategoryKit', :path => '../'
+
+  target 'YanWGCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
