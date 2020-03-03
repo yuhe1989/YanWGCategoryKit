@@ -1,0 +1,16 @@
+PODS:
+  - YanWGCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - YanWGCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  YanWGCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YanWGCategoryKit: 85491a50e3eb8f8945fcb5db13082d2c653f459c
+
+PODFILE CHECKSUM: 83104076c3255030a52cd17c51027f7a65fc3fc1
+
+COCOAPODS: 1.8.4

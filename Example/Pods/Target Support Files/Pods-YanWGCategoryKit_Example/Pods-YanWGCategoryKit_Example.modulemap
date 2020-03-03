@@ -1,0 +1,6 @@
+framework module Pods_YanWGCategoryKit_Example {
+  umbrella header "Pods-YanWGCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

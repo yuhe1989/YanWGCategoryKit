@@ -1,0 +1,22 @@
+{
+  "name": "YanWGCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of YanWGCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangyan/YanWGCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangyan": "yan1989.code@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangyan/YanWGCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YanWGCategoryKit/Classes/**/*"
+}

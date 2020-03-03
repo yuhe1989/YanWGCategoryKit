@@ -1,0 +1,6 @@
+framework module YanWGCategoryKit {
+  umbrella header "YanWGCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
